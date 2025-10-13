@@ -17,8 +17,8 @@ at [Politecnico di Torino](https://www.polito.it/) & [EURECOM, France](https://w
 ---
 
 ## 📌 Featured Projects
-- **CIFAR-100 with Vision Transformers** — Fine-tuning a ViT model using a **state-of-the-art sparse finetuning technique**  
-- **Federated Learning Framework vs Centralized Training** — Implemented **FedAvg training** with checkpoints and experiment tracking  
+- **CIFAR-100 Vision Transformers and Federated Learning** — Fine-tuned a Vision Transformer (ViT-S/16)) model on the CIFAR-100 dataset using a state-of-the-art sparse fine-tuning technique, 
+and implemented a Federated Averaging (FedAvg) framework with checkpointing and experiment tracking to compare performance against centralized training. 
 - **Age Prediction from Voice** — Built ML models using **acoustic and textual features** for age estimation
 
 
