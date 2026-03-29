@@ -17,11 +17,11 @@ at [Politecnico di Torino](https://www.polito.it/) & [EURECOM, France](https://w
 ---
 
 ## 📌 Featured Projects
-- **CIFAR-100 Vision Transformers and Federated Learning** — Fine-tuned a Vision Transformer (ViT-S/16)) model on the CIFAR-100 dataset using a state-of-the-art sparse fine-tuning technique, 
-and implemented a Federated Averaging (FedAvg) framework with checkpointing and experiment tracking to compare performance against centralized training. 
-- **Age Prediction from Voice** — Built ML models using **acoustic and textual features** for age estimation
-- **Data Mining and Predictive Modeling** - Built predictive models in RStudio using real-world datasets, focusing on feature selection and model evaluation.
-
+- **Text2SQL Project** Built Text-to-SQL agents using a ReAct-based framework, investigating the impact of exploratory query strategies on accuracy. https://github.com/steeedd/SemesterProject
+ - **CIFAR-100 Vision Transformers and Federated Learning** — Fine-tuned a Vision Transformer (ViT-S/16)) model on the CIFAR-100 dataset using a state-of-the-art sparse fine-tuning technique and implemented a Federated Averaging (FedAvg) framework with checkpointing and experiment tracking to compare performance against centralized training. https://github.com/depetrofabio/FederatedLearningProject
+- **Age Prediction from Voice** — Built ML models using **acoustic and textual features** for age estimation. https://github.com/CerbelliFederico/DataScience_Project
+- **Azure Project** Deployed and load-tested a numerical integration microservice across multiple Azure environments (VMs, Web Apps, Functions). Implemented
+a MapReduce pipeline using Azure Durable Functions with Blob Storage for distributed word count. https://github.com/CerbelliFederico/azure-cloud-labs
 
 ## 📫 Contact
 - 📧 Email: cerbellifederico@gmail.com, cerbelli@eurecom.fr  
